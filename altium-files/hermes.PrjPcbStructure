@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=2_ESP32.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=2_ESP32.SchDoc|FileName=3_CONECTORES.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=2_ESP32.SchDoc|FileName=4_IMU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=2_ESP32.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=1
